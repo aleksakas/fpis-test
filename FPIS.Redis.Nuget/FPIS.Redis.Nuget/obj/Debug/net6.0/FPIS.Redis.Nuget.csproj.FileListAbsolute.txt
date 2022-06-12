@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\bin\Debug\net6.0\FPIS.Redis.Nuget.deps.json
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\bin\Debug\net6.0\FPIS.Redis.Nuget.dll
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\bin\Debug\net6.0\FPIS.Redis.Nuget.pdb
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\FPIS.Redis.Nuget.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\FPIS.Redis.Nuget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\FPIS.Redis.Nuget.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\FPIS.Redis.Nuget.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\FPIS.Redis.Nuget.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\FPIS.Redis.Nuget.dll
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\refint\FPIS.Redis.Nuget.dll
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\FPIS.Redis.Nuget.pdb
+C:\Users\Lenovo\Source\Repos\fpis-test\FPIS.Redis.Nuget\FPIS.Redis.Nuget\obj\Debug\net6.0\ref\FPIS.Redis.Nuget.dll

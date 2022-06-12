@@ -5,10 +5,10 @@
   },
   "projects": {
     "C:\\Users\\Lenovo\\Source\\Repos\\fpis-test\\FPIS.Redis.Nuget\\FPIS.Redis.Nuget\\FPIS.Redis.Nuget.csproj": {
-      "version": "1.0.0",
+      "version": "0.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\fpis-test\\FPIS.Redis.Nuget\\FPIS.Redis.Nuget\\FPIS.Redis.Nuget.csproj",
-        "projectName": "FPIS.Redis.Nuget",
+        "projectName": "FPISCachingService",
         "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\fpis-test\\FPIS.Redis.Nuget\\FPIS.Redis.Nuget\\FPIS.Redis.Nuget.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\fpis-test\\FPIS.Redis.Nuget\\FPIS.Redis.Nuget\\obj\\",
